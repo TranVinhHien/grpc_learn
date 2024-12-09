@@ -1,0 +1,41 @@
+syntax="proto3";
+option go_package="github.com/tranvinhhien/learngrpc/pb";
+import "laptop_messsage.proto";
+import "filter_message.proto";
+
+message CreateLaptopRequest{
+    Laptop laptop =1;
+}
+message CreateLaptopResponse{
+    string id =1;
+}
+message SearchLaptopRequest{
+    Filter filter =1;
+}
+message SearchLaptopResponse{
+    Laptop laptop =1;
+}
+message TotalPriceLaptopRequest{
+    Laptop laptop = 1;
+}
+message TotalPriceLaptopResponse{
+    double totalPrice =1;
+}
+message msInfo {
+    uint32 toId=1;
+    string ms =2;
+}
+
+message ChatMsRequest{
+    msInfo ms =1;
+}
+message ChatMsResponse{
+    msInfo ms=1;
+}
+
+service LaptopService{
+    rpc CreateLaptop(CreateLaptopRequest)returns (CreateLaptopResponse){};
+    rpc SearchLaptop(SearchLaptopRequest)returns (stream SearchLaptopResponse);
+    rpc TotalPriceLaptops(stream TotalPriceLaptopRequest)returns (TotalPriceLaptopResponse);
+    rpc ChatMSLaptops(stream ChatMsRequest)returns (stream ChatMsResponse);
+}

@@ -1,0 +1,13 @@
+syntax="proto3";
+option go_package="github.com/tranvinhhien/learngrpc/pb";
+
+message Keyboard{
+    enum Layout{
+        UNKNOW=0;
+        AZERTY=1;
+        QWERTZX=2;
+        QWERTZY=3;
+    }
+    Layout layout=1;
+    bool backlit =2;
+}

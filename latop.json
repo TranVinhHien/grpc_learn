@@ -1,0 +1,512 @@
+[
+  {
+    "id": "794cd558-16e5-4b96-b18f-9b139e4e8034",
+    "brand": "xa12cD3EAD",
+    "name": "KxpKfxweiA",
+    "cpu": {
+      "brand": "ZiCcwTvUxZ",
+      "name": "qlKk7rrF",
+      "numbers_cores": 7,
+      "min_ghz": 8,
+      "max_ghz": 8
+    },
+    "ram": {
+      "value": 9,
+      "unit": 5
+    },
+    "gpu": [
+      {
+        "brand": "flG8NhzrLQ",
+        "name": "m2t8vPuAtV",
+        "min_ghz": 87,
+        "max_ghz": 268,
+        "memory": {
+          "value": 25,
+          "unit": 1
+        }
+      },
+      {
+        "brand": "rN7tfR4sqbh",
+        "name": "SxLpb1e3pjg",
+        "min_ghz": 31,
+        "max_ghz": 316,
+        "memory": {
+          "value": 28,
+          "unit": 6
+        }
+      },
+      {
+        "brand": "sFOEgE6abQSi",
+        "name": "E2PZ8BcCHgJt",
+        "min_ghz": 32,
+        "max_ghz": 356,
+        "memory": {
+          "value": 97
+        }
+      },
+      {
+        "brand": "7W2ENyhFIhX6s",
+        "name": "I6gtdi9sVB0FI",
+        "min_ghz": 36,
+        "max_ghz": 394,
+        "memory": {
+          "value": 19,
+          "unit": 1
+        }
+      },
+      {
+        "brand": "80kkd0KEsKCHpB",
+        "name": "UuCSiKQYLvCJWB",
+        "min_ghz": 33,
+        "max_ghz": 126,
+        "memory": {
+          "value": 27,
+          "unit": 6
+        }
+      }
+    ],
+    "storegres": [
+      {
+        "driver": 1,
+        "memory": {
+          "value": 96,
+          "unit": 5
+        }
+      },
+      {
+        "memory": {
+          "value": 59,
+          "unit": 6
+        }
+      },
+      {
+        "driver": 2,
+        "memory": {
+          "value": 77
+        }
+      },
+      {
+        "driver": 1,
+        "memory": {
+          "value": 22,
+          "unit": 5
+        }
+      },
+      {
+        "driver": 1,
+        "memory": {
+          "value": 17,
+          "unit": 1
+        }
+      }
+    ],
+    "screen": {
+      "size_inch": 5,
+      "resolution": {
+        "width": 89,
+        "height": 56
+      },
+      "multipletouch": true
+    },
+    "keyboard": {
+      "layout": 2,
+      "backlit": true
+    },
+    "weight": 10,
+    "price_usd": 5901,
+    "release_year": 2023,
+    "update_at": {
+      "seconds": 1724570552,
+      "nanos": 689951417
+    }
+  },
+  {
+    "id": "dc7f426d-6edf-4d58-b801-e88aa4f7fbac",
+    "brand": "gUBSZaMmOE",
+    "name": "zsho8dOVH8",
+    "cpu": {
+      "brand": "X9Xkf9uLps",
+      "name": "gYanVhhh",
+      "numbers_cores": 3,
+      "min_ghz": 9,
+      "max_ghz": 7
+    },
+    "ram": {
+      "value": 6
+    },
+    "gpu": [
+      {
+        "brand": "LjmFNEoUkz",
+        "name": "jFcZ1t9UTh",
+        "min_ghz": 85,
+        "max_ghz": 460,
+        "memory": {
+          "value": 13,
+          "unit": 6
+        }
+      },
+      {
+        "brand": "h0hC7e2YBEB",
+        "name": "VEfISTSzkGD",
+        "min_ghz": 10,
+        "max_ghz": 269,
+        "memory": {
+          "value": 43,
+          "unit": 4
+        }
+      },
+      {
+        "brand": "BOjXdq2zMih4",
+        "name": "Xmw3s5I16b4C",
+        "min_ghz": 63,
+        "max_ghz": 442,
+        "memory": {
+          "value": 84,
+          "unit": 5
+        }
+      }
+    ],
+    "storegres": [
+      {
+        "memory": {
+          "value": 93,
+          "unit": 5
+        }
+      },
+      {
+        "driver": 2,
+        "memory": {
+          "value": 75,
+          "unit": 6
+        }
+      },
+      {
+        "driver": 1,
+        "memory": {
+          "value": 53,
+          "unit": 5
+        }
+      },
+      {
+        "memory": {
+          "value": 87,
+          "unit": 5
+        }
+      },
+      {
+        "memory": {
+          "value": 48,
+          "unit": 5
+        }
+      }
+    ],
+    "screen": {
+      "size_inch": 8,
+      "resolution": {
+        "width": 56,
+        "height": 100
+      },
+      "panel": 2,
+      "multipletouch": true
+    },
+    "keyboard": {
+      "layout": 3,
+      "backlit": true
+    },
+    "weight": 6,
+    "price_usd": 6706,
+    "release_year": 2021,
+    "update_at": {
+      "seconds": 1724570591,
+      "nanos": 925800336
+    }
+  },
+  {
+    "id": "26933e98-7f41-41ff-b23a-7613ccdf8409",
+    "brand": "sIWGOS6y1y",
+    "name": "8Jx4dy4lnv",
+    "cpu": {
+      "brand": "i0FWxBLESB",
+      "name": "jHubRTxh",
+      "numbers_cores": 10,
+      "min_ghz": 9,
+      "max_ghz": 10
+    },
+    "ram": {
+      "value": 5,
+      "unit": 5
+    },
+    "gpu": [
+      {
+        "brand": "x3b8cvc75O",
+        "name": "3Xp84y4YIT",
+        "min_ghz": 57,
+        "max_ghz": 329,
+        "memory": {
+          "value": 20
+        }
+      },
+      {
+        "brand": "WGNlFDQRibv",
+        "name": "Di6DqDte0X4",
+        "min_ghz": 91,
+        "max_ghz": 484,
+        "memory": {
+          "value": 29,
+          "unit": 5
+        }
+      },
+      {
+        "brand": "tOFpkDcAU7n2",
+        "name": "GxY56qzyNCiM",
+        "min_ghz": 21,
+        "max_ghz": 109,
+        "memory": {
+          "value": 42,
+          "unit": 3
+        }
+      },
+      {
+        "brand": "kLIP6TKog88Nn",
+        "name": "lNAzSQCgdnmzM",
+        "min_ghz": 59,
+        "max_ghz": 472,
+        "memory": {
+          "value": 86,
+          "unit": 5
+        }
+      }
+    ],
+    "storegres": [
+      {
+        "memory": {
+          "value": 96,
+          "unit": 5
+        }
+      },
+      {
+        "driver": 2,
+        "memory": {
+          "value": 56,
+          "unit": 6
+        }
+      }
+    ],
+    "screen": {
+      "size_inch": 10,
+      "resolution": {
+        "width": 66,
+        "height": 95
+      },
+      "multipletouch": true
+    },
+    "keyboard": {
+      "layout": 2
+    },
+    "weight": 10,
+    "price_usd": 6101,
+    "release_year": 2020,
+    "update_at": {
+      "seconds": 1724570717,
+      "nanos": 978201705
+    }
+  },
+  {
+    "id": "46cece96-e8f0-471b-bfbf-68e35e60dcc0",
+    "brand": "HCiCdsAfqJ",
+    "name": "ZLd4RguMJm",
+    "cpu": {
+      "brand": "wFoFYbwWyF",
+      "name": "hb7E6wGL",
+      "numbers_cores": 7,
+      "min_ghz": 4,
+      "max_ghz": 6
+    },
+    "ram": {
+      "value": 7,
+      "unit": 1
+    },
+    "gpu": [
+      {
+        "brand": "CHoaSukN9L",
+        "name": "yhxgIS3lkN",
+        "min_ghz": 60,
+        "max_ghz": 243,
+        "memory": {
+          "value": 60
+        }
+      },
+      {
+        "brand": "7xSfT8rhHi2",
+        "name": "A2Qj6Xz3dsE",
+        "min_ghz": 65,
+        "max_ghz": 425,
+        "memory": {
+          "value": 77,
+          "unit": 3
+        }
+      },
+      {
+        "brand": "xp08p3ua0Pbt",
+        "name": "vyhhhxPaPea4",
+        "min_ghz": 25,
+        "max_ghz": 461,
+        "memory": {
+          "value": 34,
+          "unit": 5
+        }
+      }
+    ],
+    "storegres": [
+      {
+        "driver": 2,
+        "memory": {
+          "value": 36,
+          "unit": 4
+        }
+      },
+      {
+        "driver": 1,
+        "memory": {
+          "value": 43,
+          "unit": 3
+        }
+      },
+      {
+        "driver": 2,
+        "memory": {
+          "value": 65,
+          "unit": 4
+        }
+      },
+      {
+        "memory": {
+          "value": 16,
+          "unit": 3
+        }
+      }
+    ],
+    "screen": {
+      "size_inch": 10,
+      "resolution": {
+        "width": 76,
+        "height": 73
+      },
+      "panel": 2
+    },
+    "keyboard": {},
+    "weight": 7,
+    "price_usd": 7634,
+    "release_year": 2021,
+    "update_at": {
+      "seconds": 1724571052,
+      "nanos": 229863398
+    }
+  },
+  {
+    "id": "dd81f0ac-72f1-46f8-be0b-980da34d0ae4",
+    "brand": "j56yH4vgbM",
+    "name": "kSmBkDIHVo",
+    "cpu": {
+      "brand": "If5OfWGIbf",
+      "name": "0nWZvAeS",
+      "numbers_cores": 1,
+      "min_ghz": 9,
+      "max_ghz": 3
+    },
+    "ram": {
+      "value": 5,
+      "unit": 5
+    },
+    "gpu": [
+      {
+        "brand": "cCdBF7L61M",
+        "name": "23kxskF63m",
+        "min_ghz": 96,
+        "max_ghz": 281,
+        "memory": {
+          "value": 97,
+          "unit": 6
+        }
+      },
+      {
+        "brand": "KjJ5yV8heXc",
+        "name": "sjmatPpq3xC",
+        "min_ghz": 35,
+        "max_ghz": 398,
+        "memory": {
+          "value": 71
+        }
+      },
+      {
+        "brand": "WuyYmJtdlyiE",
+        "name": "1qkMKKSD8pHu",
+        "min_ghz": 51,
+        "max_ghz": 322,
+        "memory": {
+          "value": 74,
+          "unit": 2
+        }
+      },
+      {
+        "brand": "eg8OOd5cSZdMM",
+        "name": "WG8HLVrGGCG2N",
+        "min_ghz": 82,
+        "max_ghz": 246,
+        "memory": {
+          "value": 90,
+          "unit": 4
+        }
+      },
+      {
+        "brand": "cvrdESBbZlQ0xt",
+        "name": "hEwm6ChcPoISJN",
+        "min_ghz": 51,
+        "max_ghz": 371,
+        "memory": {
+          "value": 67,
+          "unit": 6
+        }
+      }
+    ],
+    "storegres": [
+      {
+        "driver": 2,
+        "memory": {
+          "value": 10,
+          "unit": 5
+        }
+      },
+      {
+        "driver": 2,
+        "memory": {
+          "value": 58,
+          "unit": 2
+        }
+      },
+      {
+        "memory": {
+          "value": 76,
+          "unit": 2
+        }
+      }
+    ],
+    "screen": {
+      "size_inch": 10,
+      "resolution": {
+        "width": 55,
+        "height": 86
+      }
+    },
+    "keyboard": {
+      "backlit": true
+    },
+    "weight": 4,
+    "price_usd": 8531,
+    "release_year": 2024,
+    "update_at": {
+      "seconds": 1724582891,
+      "nanos": 887151859
+    }
+  }
+]
